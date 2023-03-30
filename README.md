@@ -127,4 +127,4 @@ Em seguida, a função jQuery() é usada novamente para selecionar dois elemento
 
 <b>Créditos</b>
 Adaptação: https://gist.github.com/dantetesta
-Explicação: Felipe Carvalho
+<br>Explicação: Felipe Carvalho
