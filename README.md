@@ -123,3 +123,8 @@ Em seguida, a função jQuery() é usada novamente para selecionar dois elemento
 <i>Em resumo, esse código usa os atributos de dados personalizados do elemento selecionado em um elemento HTML select com o ID "usuario" para atualizar dinamicamente o conteúdo de dois elementos HTML input na página. Isso permite que o conteúdo da página seja atualizado dinamicamente conforme o usuário seleciona diferentes opções no elemento select.</i>
 
 </details>
+
+
+<b>Créditos</b>
+Adaptação: https://gist.github.com/dantetesta
+Explicação: Felipe Carvalho
